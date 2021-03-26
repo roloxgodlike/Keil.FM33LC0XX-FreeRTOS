@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/AVR32_UC3
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/AVR32_UC3/port.c
+END
+exception.s82
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/AVR32_UC3/exception.s82
+END
+write.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/AVR32_UC3/write.c
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/AVR32_UC3/portmacro.h
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/AVR32_UC3/read.c
+END

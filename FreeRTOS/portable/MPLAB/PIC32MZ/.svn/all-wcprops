@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/MPLAB/PIC32MZ
+END
+ISR_Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/MPLAB/PIC32MZ/ISR_Support.h
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/MPLAB/PIC32MZ/port.c
+END
+port_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/MPLAB/PIC32MZ/port_asm.S
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/MPLAB/PIC32MZ/portmacro.h
+END

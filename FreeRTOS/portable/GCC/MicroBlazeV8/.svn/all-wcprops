@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/GCC/MicroBlazeV8
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/GCC/MicroBlazeV8/port.c
+END
+port_exceptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/GCC/MicroBlazeV8/port_exceptions.c
+END
+portasm.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/GCC/MicroBlazeV8/portasm.S
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/GCC/MicroBlazeV8/portmacro.h
+END

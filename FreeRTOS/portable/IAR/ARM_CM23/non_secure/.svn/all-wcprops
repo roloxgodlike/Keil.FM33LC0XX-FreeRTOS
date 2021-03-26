@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/ARM_CM23/non_secure
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/ARM_CM23/non_secure/port.c
+END
+portasm.s
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/ARM_CM23/non_secure/portasm.s
+END
+portasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/ARM_CM23/non_secure/portasm.h
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/ARM_CM23/non_secure/portmacro.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Softune/MB96340
+END
+__STD_LIB_sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Softune/MB96340/__STD_LIB_sbrk.c
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Softune/MB96340/port.c
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Softune/MB96340/portmacro.h
+END

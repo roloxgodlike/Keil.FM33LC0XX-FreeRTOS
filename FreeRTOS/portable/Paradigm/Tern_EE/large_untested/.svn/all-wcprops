@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Paradigm/Tern_EE/large_untested
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Paradigm/Tern_EE/large_untested/port.c
+END
+portasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Paradigm/Tern_EE/large_untested/portasm.h
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Paradigm/Tern_EE/large_untested/portmacro.h
+END

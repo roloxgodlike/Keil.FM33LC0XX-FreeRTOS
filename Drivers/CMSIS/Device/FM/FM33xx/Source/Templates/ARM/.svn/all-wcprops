@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/Drivers/CMSIS/Device/FM/FM33xx/Source/Templates/ARM
+END
+startup_fm33lc0xx.s
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/Drivers/CMSIS/Device/FM/FM33xx/Source/Templates/ARM/startup_fm33lc0xx.s
+END
+startup_fm33lg0xx.s
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/Drivers/CMSIS/Device/FM/FM33xx/Source/Templates/ARM/startup_fm33lg0xx.s
+END

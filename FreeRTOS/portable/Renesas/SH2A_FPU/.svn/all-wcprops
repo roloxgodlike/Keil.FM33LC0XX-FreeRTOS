@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Renesas/SH2A_FPU
+END
+ISR_Support.inc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Renesas/SH2A_FPU/ISR_Support.inc
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Renesas/SH2A_FPU/port.c
+END
+portasm.src
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Renesas/SH2A_FPU/portasm.src
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/Renesas/SH2A_FPU/portmacro.h
+END

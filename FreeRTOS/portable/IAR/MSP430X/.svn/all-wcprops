@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/MSP430X
+END
+data_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/MSP430X/data_model.h
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/MSP430X/port.c
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/MSP430X/portmacro.h
+END
+portext.s43
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/general/!svn/ver/38/FM402/%E4%BE%8B%E7%A8%8B_FL/FreeRTOS%20Demo/FreeRTOS/portable/IAR/MSP430X/portext.s43
+END
